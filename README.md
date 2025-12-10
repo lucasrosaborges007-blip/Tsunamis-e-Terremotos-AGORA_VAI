@@ -1,2 +1,2 @@
-# Tsunamis-e-Terremotos-AGORA_VAI
-Dashboard de Tsunamis e  Terremotos
+# Terremotos-e-Tsunamis
+Dashboard Terremotos e Tsunamis em Python
